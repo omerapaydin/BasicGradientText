@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  First.swift
 //  BasicGradientText
 //
 //  Created by Ömer on 4.01.2025.
